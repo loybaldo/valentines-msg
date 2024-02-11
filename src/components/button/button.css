@@ -1,0 +1,14 @@
+.val-btn {
+    height: 44px;
+    min-width: 70px;
+    padding: 0 15px;
+    border-radius: 15px;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.16);
+}
+
+.val-btn:hover {
+    filter: brightness(0.8);
+}
