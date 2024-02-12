@@ -2,7 +2,7 @@
 
 Message lang... basta oi AHAHAHA
 
-## Getting Statrted
+## Getting Started
 
 1. Install the dependencies:
 
